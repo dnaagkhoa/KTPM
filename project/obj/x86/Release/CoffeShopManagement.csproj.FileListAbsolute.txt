@@ -1,0 +1,547 @@
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\project.exe.config
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\project.exe
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\project.pdb
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\Interop.WMPLib.dll
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\AxInterop.WMPLib.dll
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.AssemblyReference.cache
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\Interop.WMPLib.dll
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\AxInterop.WMPLib.dll
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.ResolveComReference.cache
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdAccount.resources
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAddFood.resources
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.Block.resources
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ChangePersional.resources
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdCategory.resources
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdFood.resources
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdTables.resources
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmLogin.resources
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmMain.resources
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmPay.resources
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.PlusTable.resources
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.Properties.Resources.resources
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ReFood.resources
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ReplaceTable.resources
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.GenerateResource.cache
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.CoreCompileInputs.cache
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.exe
+D:\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.pdb
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\project.exe.config
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\project.exe
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\project.pdb
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\Interop.WMPLib.dll
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\AxInterop.WMPLib.dll
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.AssemblyReference.cache
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\Interop.WMPLib.dll
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\AxInterop.WMPLib.dll
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.ResolveComReference.cache
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdAccount.resources
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAddFood.resources
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.Block.resources
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ChangePersional.resources
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdCategory.resources
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdFood.resources
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdTables.resources
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmLogin.resources
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmMain.resources
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmPay.resources
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.PlusTable.resources
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.Properties.Resources.resources
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ReFood.resources
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ReplaceTable.resources
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.GenerateResource.cache
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.CoreCompileInputs.cache
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.exe
+D:\ĐỒ án\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.pdb
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\project.exe.config
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\project.exe
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\project.pdb
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\Interop.WMPLib.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.AssemblyReference.cache
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.ResolveComReference.cache
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdAccount.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAddFood.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.Block.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ChangePersional.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdCategory.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdFood.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdTables.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmLogin.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmMain.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmPay.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.PlusTable.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.Properties.Resources.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ReFood.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ReplaceTable.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.GenerateResource.cache
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.exe
+C:\Users\DarkM\Desktop\Doankt\Doankt\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.pdb
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\project.exe.config
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\project.exe
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\project.pdb
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Castle.Core.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Moq.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Moq.Microsoft.Configuration.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Buffers.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Memory.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Numerics.Vectors.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.ValueTuple.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Castle.Core.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Moq.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Buffers.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Memory.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Numerics.Vectors.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.ValueTuple.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Interop.WMPLib.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.AssemblyReference.cache
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.ResolveComReference.cache
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.frmAdAccount.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.frmAddFood.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.Block.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.ChangePersional.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.frmAdCategory.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.frmAdFood.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.frmAdTables.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.frmLogin.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.frmMain.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.frmPay.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.PlusTable.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.Properties.Resources.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.ReFood.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.ReplaceTable.resources
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.GenerateResource.cache
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\CoffeSho.E38012F1.Up2Date
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.exe
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.pdb
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Moq.AutoMock.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\NonBlocking.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Moq.AutoMock.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\NonBlocking.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\project.exe.manifest
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\project.application
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.exe.manifest
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\project.application
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\OSExtensions.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\x86\KernelTraceControl.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\x86\KernelTraceControl.Win61.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\x86\msdia140.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\x86\msvcp140.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\x86\vcruntime140.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\amd64\KernelTraceControl.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\amd64\msdia140.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\amd64\msvcp140.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\amd64\vcruntime140.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\amd64\vcruntime140_1.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\arm64\KernelTraceControl.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\arm64\msdia140.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\arm64\msvcp140.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\arm64\vcruntime140.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\arm64\vcruntime140_1.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\TraceReloggerLib.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Dia2Lib.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\BenchmarkDotNet.Annotations.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\BenchmarkDotNet.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\CommandLine.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Gee.External.Capstone.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Iced.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.CodeAnalysis.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Diagnostics.Runtime.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Perfolizer.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Collections.Immutable.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Reflection.Metadata.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Security.AccessControl.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\BenchmarkDotNet.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\BenchmarkDotNet.Annotations.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\CommandLine.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Gee.External.Capstone.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Iced.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.CodeAnalysis.pdb
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.CodeAnalysis.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Diagnostics.Runtime.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\Microsoft.Win32.Registry.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Collections.Immutable.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Reflection.Metadata.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Security.AccessControl.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\bin\Release\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DarkM\Desktop\Doankt\Doankt\project\obj\x86\Release\CoffeShopManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\Doankt\project\bin\Release\OSExtensions.dll
+D:\New folder (2)\Doankt\project\bin\Release\x86\KernelTraceControl.dll
+D:\New folder (2)\Doankt\project\bin\Release\x86\KernelTraceControl.Win61.dll
+D:\New folder (2)\Doankt\project\bin\Release\x86\msdia140.dll
+D:\New folder (2)\Doankt\project\bin\Release\x86\msvcp140.dll
+D:\New folder (2)\Doankt\project\bin\Release\x86\vcruntime140.dll
+D:\New folder (2)\Doankt\project\bin\Release\amd64\KernelTraceControl.dll
+D:\New folder (2)\Doankt\project\bin\Release\amd64\msdia140.dll
+D:\New folder (2)\Doankt\project\bin\Release\amd64\msvcp140.dll
+D:\New folder (2)\Doankt\project\bin\Release\amd64\vcruntime140.dll
+D:\New folder (2)\Doankt\project\bin\Release\amd64\vcruntime140_1.dll
+D:\New folder (2)\Doankt\project\bin\Release\arm64\KernelTraceControl.dll
+D:\New folder (2)\Doankt\project\bin\Release\arm64\msdia140.dll
+D:\New folder (2)\Doankt\project\bin\Release\arm64\msvcp140.dll
+D:\New folder (2)\Doankt\project\bin\Release\arm64\vcruntime140.dll
+D:\New folder (2)\Doankt\project\bin\Release\arm64\vcruntime140_1.dll
+D:\New folder (2)\Doankt\project\bin\Release\TraceReloggerLib.dll
+D:\New folder (2)\Doankt\project\bin\Release\Dia2Lib.dll
+D:\New folder (2)\Doankt\project\bin\Release\project.exe.config
+D:\New folder (2)\Doankt\project\bin\Release\project.exe.manifest
+D:\New folder (2)\Doankt\project\bin\Release\project.application
+D:\New folder (2)\Doankt\project\bin\Release\project.exe
+D:\New folder (2)\Doankt\project\bin\Release\project.pdb
+D:\New folder (2)\Doankt\project\bin\Release\BenchmarkDotNet.Annotations.dll
+D:\New folder (2)\Doankt\project\bin\Release\BenchmarkDotNet.dll
+D:\New folder (2)\Doankt\project\bin\Release\Castle.Core.dll
+D:\New folder (2)\Doankt\project\bin\Release\CommandLine.dll
+D:\New folder (2)\Doankt\project\bin\Release\Gee.External.Capstone.dll
+D:\New folder (2)\Doankt\project\bin\Release\Iced.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.CodeAnalysis.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Diagnostics.FastSerialization.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Diagnostics.NETCore.Client.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Diagnostics.Runtime.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.DotNet.PlatformAbstractions.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.Logging.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.Options.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.Primitives.dll
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Win32.Registry.dll
+D:\New folder (2)\Doankt\project\bin\Release\Moq.AutoMock.dll
+D:\New folder (2)\Doankt\project\bin\Release\Moq.dll
+D:\New folder (2)\Doankt\project\bin\Release\Moq.Microsoft.Configuration.dll
+D:\New folder (2)\Doankt\project\bin\Release\NonBlocking.dll
+D:\New folder (2)\Doankt\project\bin\Release\Perfolizer.dll
+D:\New folder (2)\Doankt\project\bin\Release\System.Buffers.dll
+D:\New folder (2)\Doankt\project\bin\Release\System.Collections.Immutable.dll
+D:\New folder (2)\Doankt\project\bin\Release\System.Memory.dll
+D:\New folder (2)\Doankt\project\bin\Release\System.Numerics.Vectors.dll
+D:\New folder (2)\Doankt\project\bin\Release\System.Reflection.Metadata.dll
+D:\New folder (2)\Doankt\project\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder (2)\Doankt\project\bin\Release\System.Security.AccessControl.dll
+D:\New folder (2)\Doankt\project\bin\Release\System.Security.Principal.Windows.dll
+D:\New folder (2)\Doankt\project\bin\Release\System.Text.Encoding.CodePages.dll
+D:\New folder (2)\Doankt\project\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\New folder (2)\Doankt\project\bin\Release\System.ValueTuple.dll
+D:\New folder (2)\Doankt\project\bin\Release\BenchmarkDotNet.xml
+D:\New folder (2)\Doankt\project\bin\Release\BenchmarkDotNet.Annotations.xml
+D:\New folder (2)\Doankt\project\bin\Release\Castle.Core.xml
+D:\New folder (2)\Doankt\project\bin\Release\CommandLine.xml
+D:\New folder (2)\Doankt\project\bin\Release\Gee.External.Capstone.xml
+D:\New folder (2)\Doankt\project\bin\Release\Iced.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.CodeAnalysis.pdb
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.CodeAnalysis.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.CodeAnalysis.CSharp.pdb
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.CodeAnalysis.CSharp.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Diagnostics.FastSerialization.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Diagnostics.NETCore.Client.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Diagnostics.Runtime.pdb
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Diagnostics.Runtime.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.DotNet.PlatformAbstractions.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.Binder.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.Logging.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.Options.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Extensions.Primitives.xml
+D:\New folder (2)\Doankt\project\bin\Release\Microsoft.Win32.Registry.xml
+D:\New folder (2)\Doankt\project\bin\Release\Moq.xml
+D:\New folder (2)\Doankt\project\bin\Release\Moq.AutoMock.xml
+D:\New folder (2)\Doankt\project\bin\Release\NonBlocking.xml
+D:\New folder (2)\Doankt\project\bin\Release\System.Buffers.xml
+D:\New folder (2)\Doankt\project\bin\Release\System.Collections.Immutable.xml
+D:\New folder (2)\Doankt\project\bin\Release\System.Memory.xml
+D:\New folder (2)\Doankt\project\bin\Release\System.Numerics.Vectors.xml
+D:\New folder (2)\Doankt\project\bin\Release\System.Reflection.Metadata.xml
+D:\New folder (2)\Doankt\project\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder (2)\Doankt\project\bin\Release\System.Security.AccessControl.xml
+D:\New folder (2)\Doankt\project\bin\Release\System.Security.Principal.Windows.xml
+D:\New folder (2)\Doankt\project\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\New folder (2)\Doankt\project\bin\Release\System.ValueTuple.xml
+D:\New folder (2)\Doankt\project\bin\Release\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\Doankt\project\bin\Release\Interop.WMPLib.dll
+D:\New folder (2)\Doankt\project\bin\Release\AxInterop.WMPLib.dll
+D:\New folder (2)\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.AssemblyReference.cache
+D:\New folder (2)\Doankt\project\obj\x86\Release\Interop.WMPLib.dll
+D:\New folder (2)\Doankt\project\obj\x86\Release\AxInterop.WMPLib.dll
+D:\New folder (2)\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.ResolveComReference.cache
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.frmAdAccount.resources
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.frmAddFood.resources
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.Block.resources
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.ChangePersional.resources
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.frmAdCategory.resources
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.frmAdFood.resources
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.frmAdTables.resources
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.frmLogin.resources
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.frmMain.resources
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.frmPay.resources
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.PlusTable.resources
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.Properties.Resources.resources
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.ReFood.resources
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.ReplaceTable.resources
+D:\New folder (2)\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.GenerateResource.cache
+D:\New folder (2)\Doankt\project\obj\x86\Release\CoffeShopManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.exe.manifest
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.application
+D:\New folder (2)\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.CopyComplete
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.exe
+D:\New folder (2)\Doankt\project\obj\x86\Release\project.pdb
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\x86\KernelTraceControl.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\x86\KernelTraceControl.Win61.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\x86\msdia140.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\x86\msvcp140.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\x86\vcruntime140.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\amd64\KernelTraceControl.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\amd64\msdia140.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\amd64\msvcp140.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\amd64\vcruntime140.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\amd64\vcruntime140_1.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\arm64\KernelTraceControl.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\arm64\msdia140.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\arm64\msvcp140.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\arm64\vcruntime140.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\arm64\vcruntime140_1.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\TraceReloggerLib.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Dia2Lib.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\OSExtensions.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\project.exe.config
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\project.exe.manifest
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\project.application
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\project.exe
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\project.pdb
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\BenchmarkDotNet.Annotations.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\BenchmarkDotNet.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Castle.Core.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\CommandLine.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Gee.External.Capstone.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Iced.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Diagnostics.NETCore.Client.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Diagnostics.Runtime.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Moq.AutoMock.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Moq.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Moq.Microsoft.Configuration.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\NonBlocking.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Perfolizer.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Buffers.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Collections.Immutable.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Memory.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Security.AccessControl.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\BenchmarkDotNet.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\BenchmarkDotNet.Annotations.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Castle.Core.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\CommandLine.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Gee.External.Capstone.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Iced.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.CodeAnalysis.pdb
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.CodeAnalysis.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Diagnostics.FastSerialization.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Diagnostics.NETCore.Client.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Diagnostics.Runtime.pdb
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Diagnostics.Runtime.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Microsoft.Win32.Registry.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Moq.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Moq.AutoMock.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\NonBlocking.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Buffers.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Collections.Immutable.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Memory.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Reflection.Metadata.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Security.AccessControl.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\System.ValueTuple.xml
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\Interop.WMPLib.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\bin\Release\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.frmAdAccount.resources
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.frmAddFood.resources
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.Block.resources
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.ChangePersional.resources
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.frmAdCategory.resources
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.frmAdFood.resources
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.frmAdTables.resources
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.frmLogin.resources
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.frmMain.resources
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.frmPay.resources
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.PlusTable.resources
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.ReFood.resources
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.ReplaceTable.resources
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\CoffeShopManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.exe.manifest
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.application
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\CoffeShopManagement.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.exe
+C:\Users\ADMIN\Desktop\BTL_KTPM\Doankt\project\obj\x86\Release\project.pdb
